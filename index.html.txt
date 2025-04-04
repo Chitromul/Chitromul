@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chitromul - Photography & Cinematography</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #000;
+            color: #fff;
+        }
+        .header {
+            padding: 20px;
+            background-color: #111;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .section {
+            padding: 50px 20px;
+        }
+        .gallery img {
+            width: 300px;
+            margin: 10px;
+            border-radius: 10px;
+        }
+        .footer {
+            background-color: #222;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        a { color: #ffcc00; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <div class="header">চিত্রমূল - Photography & Cinematography</div>
+    
+    <div class="section">
+        <h2>আমাদের সম্পর্কে</h2>
+        <p>চিত্রমূল একটি প্রফেশনাল ফটোগ্রাফি ও সিনেমাটোগ্রাফি ব্র্যান্ড। আমরা ওয়েডিং, ফ্যাশন, ইভেন্ট, এবং কমার্শিয়াল ফটোগ্রাফি করি।</p>
+    </div>
+
+    <div class="section">
+        <h2>আমাদের কাজ</h2>
+        <div class="gallery">
+            <img src="photo1.jpg" alt="Photography Sample">
+            <img src="photo2.jpg" alt="Photography Sample">
+            <img src="photo3.jpg" alt="Photography Sample">
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>যোগাযোগ করুন</h2>
+        <p>📍 Dhaka, Bangladesh</p>
+        <p>📧 Email: chitromul@gmail.com</p>
+        <p>
+            <a href="#">Facebook</a> | 
+            <a href="#">Instagram</a> | 
+            <a href="#">YouTube</a>
+        </p>
+    </div>
+
+    <div class="footer">&copy; 2025 Chitromul. All Rights Reserved.</div>
+</body>
+</html>
